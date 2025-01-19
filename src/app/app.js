@@ -1,6 +1,15 @@
+"use client"
+import Components from "./components";
+
+
+
+
 const App = () => {
-  return (
-    <div>Ap</div>
+  return(
+    <>
+    <Components />
+    </>
   )
-}
-export default App
+};
+
+export default App;

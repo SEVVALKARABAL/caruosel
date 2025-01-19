@@ -1,8 +1,10 @@
 import App from "./app"
+
 const page = () => {
   return (
     <div>
-      <App />
+      <App/>
+     
       </div>
   )
 }
